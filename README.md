@@ -34,229 +34,229 @@ pip install pyusb-tree
 ```json
 {
   "name": "JOHN-PC",
-  "attributes": {...},
+  "attributes": {},
   "children": [
     {
       "name": "Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft) - USB xHCI Compliant Host Controller",
-      "attributes": {...},
+      "attributes": {},
       "children": [
         {
           "name": "USB Root Hub (USB 3.0)",
-          "attributes": {...},
+          "attributes": {},
           "children": [
             {
               "name": "[Port1]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port2]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port3]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port4] : Sunplus Innovation USB Composite Device - Integrated Webcam - Camera",
-              "attributes": {...},
+              "attributes": {},
               "children": [
                 {
                   "name": "Integrated Webcam - USB Video Device",
-                  "attributes": {...},
+                  "attributes": {},
                   "children": []
                 }
               ]
             },
             {
               "name": "[Port5] : Intel Intel(R) Wireless Bluetooth(R) - 10\u00d7 Bluetooth, 2\u00d7 Media, 2\u00d7 Audio, Net",
-              "attributes": {...},
+              "attributes": {},
               "children": [
                 {
                   "name": "Bluetooth Device (RFCOMM Protocol TDI)",
-                  "attributes": {...},
+                  "attributes": {},
                   "children": []
                 },
                 {
                   "name": "Microsoft Bluetooth Enumerator",
-                  "attributes": {...},
+                  "attributes": {},
                   "children": [
                     {
                       "name": "AirPods - Microsoft Bluetooth A2dp Source",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "WOLF THUNDER - Microsoft Bluetooth A2dp Source",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "AirPods Avrcp Transport - Microsoft Bluetooth Avrcp Transport Driver",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "WOLF THUNDER Avrcp Transport - Microsoft Bluetooth Avrcp Transport Driver",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "AirPods Avrcp Transport - Microsoft Bluetooth Avrcp Transport Driver",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "WOLF THUNDER Avrcp Transport - Microsoft Bluetooth Avrcp Transport Driver",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "AirPods Hands-Free AG - Microsoft Bluetooth Hands-Free Profile AudioGateway role",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": [
                         {
                           "name": "AirPods Hands-Free - Microsoft Bluetooth Hands-Free Audio device",
-                          "attributes": {...},
+                          "attributes": {},
                           "children": []
                         }
                       ]
                     },
                     {
                       "name": "WOLF THUNDER Hands-Free AG - Microsoft Bluetooth Hands-Free Profile AudioGateway role",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": [
                         {
                           "name": "WOLF THUNDER Hands-Free - Microsoft Bluetooth Hands-Free Audio device",
-                          "attributes": {...},
+                          "attributes": {},
                           "children": []
                         }
                       ]
                     },
                     {
                       "name": "AAP Server",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "AirPods - Bluetooth Device",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     },
                     {
                       "name": "WOLF THUNDER - Bluetooth Device",
-                      "attributes": {...},
+                      "attributes": {},
                       "children": []
                     }
                   ]
                 },
                 {
                   "name": "Bluetooth Device (Personal Area Network)",
-                  "attributes": {...},
+                  "attributes": {},
                   "children": []
                 },
                 {
                   "name": "Microsoft Bluetooth LE Enumerator",
-                  "attributes": {...},
+                  "attributes": {},
                   "children": []
                 }
               ]
             },
             {
               "name": "[Port6]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port7]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port8]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port9]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port10]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port11]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port12]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port13]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port14]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port15]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port16]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port17]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port18]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port19]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port20]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port21]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port22]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port23]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             },
             {
               "name": "[Port24]",
-              "attributes": {...},
+              "attributes": {},
               "children": []
             }
           ]
